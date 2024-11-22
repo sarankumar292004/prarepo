@@ -1,6 +1,6 @@
 # Subtraction function
-def subtract_numbers(a, c):
-    return a - c
+def subtract_numbers(a, d):
+    return a - d
 
 # Example usage
 num1 = float(input("Enter the first number: "))
